@@ -30,7 +30,7 @@ def text_anim(text, color):
         
         if open == False:
             console.print(char, end='', style=color)
-
+        time.sleep(0.9)
 text_anim(story.beginning, 'green')
 
 choice = Prompt.ask("[bold yellow]Acceptez vous de jouer? [/bold yellow]", choices=["o", "n"])
