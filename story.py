@@ -119,7 +119,7 @@ bathroom_bis = "Vu votre odeur vous décidez de vous laver malgrès le manque d'
 choice_bath = "Vous êtes maintenant propre et un peu plus relaxé, vous vous installez sur le lit pour vous reposer un peu quand la voix robotique vous interomp\n"\
                 "[bold white]Voix robotique:[/] Il existe un passage secret d'ici vers la sortie uniquement ouvert aux gardes en chefs ayant le maximum de complicité, soit 200, dans cinq minutes je vous proposerai un moyens de monter à 200 points directement, en attendant je vous laisse vous reposer et discuter\n"
 
-oral_sex= "[bold white]Voix robotique:[/] Celà fait cinq minutes, pour augmenter en une fois votre complicité d'autant de points il faudra que vous vous masturbiez l'un devant l'autre\n"
+oral_sex= "[bold white]Voix robotique:[/] Celà fait cinq minutes, pour augmenter en une fois votre complicité d'autant de points il faudra qu'aleks se masturbe devant kitsune\n"
 
 oral_sex_accept = "[bold white]Voix robotique:[/] Votre complicité et maintenant de 200, j'ouvre le passage secret\n"\
                 "Devant vous un passage s'ouvre, vous l'empruntez pendant plusieurs minutes jusqu'à atteindre le fond, vous grimpez une échelle, vous sortez au millieu d'un champs, vous refermez la trappe qui se camouffle parfaitement. D'un côté à 500 mètres la prison, de l'autre à moins de 100m le village voisin, vous vous y précipitez et prennez le premier train loins d'ici!! Vous êtes libres\n\n"\
@@ -167,7 +167,7 @@ Humiliation_choice_success = "Vous passez le test des gardes avec succès et vou
                                 "1. Mettez vous entièrement nu et regardez le film porno suivant enssemble (+40)\n"\
                                 "[red]https://www.youporn.com/watch/102733121/[/]\n"\
                                 "2. L'un de vous doit lécher les deux pieds de l'autre et lui sucer les orteils, 1 min par pied (+50)\n"\
-                                "3. Aleks se masturbe devant kitsune jusqu'a jouir (+100)[/]\n"\
+                                "3. Aleks goute un peu de pisse de kitsune (+100)[/]\n"\
 
 
 
