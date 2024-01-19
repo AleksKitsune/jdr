@@ -154,7 +154,7 @@ sas_2_succes = "Vous sortez du sas, devant vous un long et étrois couloir, vous
                 "[red]Avant de voir les choix Aleks doit accepter et promettre de faire ce que kitsune décidera. Kitsune devra promettre de ne pas épargner Aleks et prendre la décision la plus avantageuse pour elle! Kitsune l'argent gagné ici sera uniquement pour toi et il sera gagné peut importe que vous finissiez le jeu ou pas[/]\n"
 
 Humiliation_choice= "0. Ne rien faire\n"\
-                        "1. Tu prends un verre d'eau, tu malaxes l'eau dans ta bouche puis la recrache dans le verre, tu fais ça 5 fois puis ton partenaire doit boire et avaler tout le verre (+0€)\n"\
+                        "1. Tu prends un verre d'eau, tu malaxes l'eau dans ta bouche puis la recrache dans le verre, tu fais ça 5 fois puis ton partenaire doit boire et avaler tout le verre et apres tu maches un gros morceau de gateau qu'il devra manger (+1000€)\n"\
                         "2. Ton partenaire se met nu et se branle devant toi sans jouir pendant 5 minutes, il doit bander tout du long sans aide de type film/image (+1500€)\n"\
                         "3. Tu fais subir une golden shower à ton partenaire et il devra lecher un peu de ta pisse (+3000€)\n"\
                         
@@ -164,9 +164,9 @@ Humiliation_choice_0 = "Les gardes vous dénoncent et vous finissez pendu\n"\
 Humiliation_choice_success = "Vous passez le test des gardes avec succès et vous dirigez vers le dernier sas. Vous rentrez à l'intérieur et sans surprise la voix robotique habituelle vous parle:\n"\
                                 "[bold white]Voix robotique:[/] Il vous faut 100 ou plus de complicité pour quitter le sas, l'épreuve pour passer ce sas est unique, la voici:\n"\
                                 "0. Ne rien faire et attendre les supérieurs\n"\
-                                "1. Mettez vous entièrement nu et regardez le film porno suivant enssemble (+30)\n"\
+                                "1. Mettez vous entièrement nu et regardez le film porno suivant enssemble (+40)\n"\
                                 "[red]https://www.youporn.com/watch/102733121/[/]\n"\
-                                "2. L'un de vous doit lécher les deux pieds de l'autre et lui sucer les orteils, 1 min par pied (+40)\n"\
+                                "2. L'un de vous doit lécher les deux pieds de l'autre et lui sucer les orteils, 1 min par pied (+50)\n"\
                                 "3. Aleks se masturbe devant kitsune jusqu'a jouir (+100)[/]\n"\
 
 
