@@ -154,9 +154,9 @@ sas_2_succes = "Vous sortez du sas, devant vous un long et étrois couloir, vous
                 "[red]Avant de voir les choix Aleks doit accepter et promettre de faire ce que kitsune décidera. Kitsune devra promettre de ne pas épargner Aleks et prendre la décision la plus avantageuse pour elle! Kitsune l'argent gagné ici sera uniquement pour toi et il sera gagné peut importe que vous finissiez le jeu ou pas[/]\n"
 
 Humiliation_choice= "0. Ne rien faire\n"\
-                        "1. Tu prends un verre d'eau, tu malaxes l'eau dans ta bouche puis la recrache dans le verre, tu fais ça 5 fois puis ton partenaire doit boire et avaler tout le verre et apres tu maches un gros morceau de gateau qu'il devra manger (+1000€)\n"\
-                        "2. Ton partenaire se met nu et se branle devant toi sans jouir pendant 5 minutes, il doit bander tout du long sans aide de type film/image (+1500€)\n"\
-                        "3. Tu fais subir une golden shower à ton partenaire et il devra lecher un peu de ta pisse (+3000€)\n"\
+                        "1. Tu prends un verre d'eau, tu malaxes l'eau dans ta bouche puis la recrache dans le verre, tu fais ça 5 fois puis ton partenaire doit boire et avaler tout le verre et apres tu maches un gros morceau de gateau qu'il devra manger (+20)\n"\
+                        "2. Ton partenaire se met nu et se branle devant toi sans jouir pendant 5 minutes, il doit bander tout du long sans aide de type film/image (+30)\n"\
+                        "3. Tu fais subir une golden shower à ton partenaire et il devra lecher un peu de ta pisse (+60)\n"\
                         
 Humiliation_choice_0 = "Les gardes vous dénoncent et vous finissez pendu\n"\
                         "Fin"
